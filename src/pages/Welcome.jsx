@@ -162,7 +162,7 @@ const Welcome = () => {
             </h2>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto">
               From Fleet Management to HR Operations, this is the comprehensive tools 
-              that streamline Udrive Work processes and boost productivity.
+              that streamline Udrive Work processes and boost productivity as a Family.
             </p>
           </div>
           
